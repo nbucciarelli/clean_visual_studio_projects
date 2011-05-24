@@ -1,0 +1,9 @@
+It will grab all of the files that end with the extension of .ncb and delete them.
+It will also grab all of the folders that match the name /Debug/ and /Release/ and delete them
+
+Move this file to the base directory that you want to clean.
+cd into the directory you want to clean
+
+Then run:
+
+ruby ./clean_visual_studio_script.rb
