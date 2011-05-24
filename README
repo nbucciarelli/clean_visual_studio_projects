@@ -7,3 +7,5 @@ cd into the directory you want to clean
 Then run:
 
 ruby ./clean_visual_studio_script.rb
+
+Use at your own risk!
